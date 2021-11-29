@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly ;
+}
+
+
+h1{
+    color: slategray;
+}
+
+.lost{
+    font-size: 60px;
+    color: red;
+}
